@@ -24,6 +24,7 @@ are traveling with you as in adults, children and infants.
  Your travel plan sorted you can actually enjoy your trip!!!
 
 How we can do it
+
  We are using Google Text to Speech to read out everything.
  We have hard coded the program and the url thus enabling us to open the
 required site when entering the particular destination.
@@ -34,6 +35,7 @@ with the room type.
  We displayed the required information and using gtts, spoke it out aloud for the user to hear.
 
 Need for it
+
  Not everyone wants to continuously search for the details by typing in
 again and again.
  Instead if they speak the details out once, our program can show them all
@@ -41,6 +43,7 @@ the required information so that they can book with ease.
  It reduces time taken to book as well as the program can show the flights and hotels at the cheapest costs thus saving money.
 
 Problems we might face
+
  If you don’t know where to go, we wont be able to suggest a place for
 you.
  Since everyone has a budget, to give the best hotel in that area, would be
@@ -48,6 +51,7 @@ a problem as it wouldn’t be possible to fit it in the required cost.
  Due to late bookings, cost of flights increase tremendously.
 
 Feasibility
+
  This project is very feasible as it requires only time and knowledge of the
 programmer to do it.
  The cost of the Laptop could be taken into consideration but, no extra costs are undertaken.
