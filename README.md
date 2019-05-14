@@ -1,8 +1,7 @@
-Recreation and Travel
+# Recreation and Travel
+  -Code to Create ACM
 
-Code to Create ACM
-
-Problem
+### Problem-
 
  People planning leisure travel typically have certain budget in mind and
 some preferences about type of destination.
@@ -13,7 +12,7 @@ process is still generations old and very tedious.
 flight to and fro from your destination and also find out the hotels near you
 at the cheapest cost.
 
-Our Proposal
+### our Proposal-
 
  We made a voice controlled software which you can use to book flights
 and hotels according to your wish.
@@ -23,7 +22,7 @@ are traveling with you as in adults, children and infants.
  You can then view the hotels there at the cheapest cost.
  Your travel plan sorted you can actually enjoy your trip!!!
 
-How we can do it
+### How we can do it-
 
  We are using Google Text to Speech to read out everything.
  We have hard coded the program and the url thus enabling us to open the
@@ -34,7 +33,7 @@ that place.
 with the room type.
  We displayed the required information and using gtts, spoke it out aloud for the user to hear.
 
-Need for it
+### Need for it-
 
  Not everyone wants to continuously search for the details by typing in
 again and again.
@@ -42,7 +41,7 @@ again and again.
 the required information so that they can book with ease.
  It reduces time taken to book as well as the program can show the flights and hotels at the cheapest costs thus saving money.
 
-Problems we might face
+### Problems we might face-
 
  If you don’t know where to go, we wont be able to suggest a place for
 you.
@@ -50,7 +49,7 @@ you.
 a problem as it wouldn’t be possible to fit it in the required cost.
  Due to late bookings, cost of flights increase tremendously.
 
-Feasibility
+### Feasibility-
 
  This project is very feasible as it requires only time and knowledge of the
 programmer to do it.
